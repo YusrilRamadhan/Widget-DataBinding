@@ -1,7 +1,7 @@
 # AdvancedWidget3
 
-![screenshot1]()
-![screenshot2]()
+![screenshot](https://github.com/YusrilRamadhan/Widget-DataBinding/blob/master/1.jpeg)
+![screenshot](https://github.com/YusrilRamadhan/Widget-DataBinding/blob/master/2.jpeg)
 
 # Identitas 
 <ul>
